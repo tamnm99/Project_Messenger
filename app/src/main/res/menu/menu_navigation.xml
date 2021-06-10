@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Trang Chủ"
+        android:id="@+id/mHome"
+        android:icon="@drawable/ic_chats"
+        />
+    <item android:title="Tin Tức"
+        android:icon="@drawable/ic_baseline_fiber_new_24"
+        android:id="@+id/mNews"  />
+
+
+        />
+    <item android:title="Bài Đăng"
+        android:icon="@drawable/ic_baseline_library_books_24"
+        android:id="@+id/mPost"  />
+
+
+</menu>
